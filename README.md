@@ -1,5 +1,4 @@
-# ML and Tools
+# AI Security Notes
 
-## DevSecOps
-
-## MLSecOps
+## Claude Code
+https://anthropic.skilljar.com/claude-code-in-action
